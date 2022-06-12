@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors-Game-with-Image-Processing
 To run the game you need to download rockpaperscissors.ipynb and run it on Jupyter Notebook through Anaconda Navigator.
-Download Anaconda Navigator :
+<br/>Download Anaconda Navigator :
 https://anaconda.org/anaconda/anaconda-navigator
 
 ![176756614_483808789473341_2682519785934702617_n](https://user-images.githubusercontent.com/62371038/173228584-6008f60e-6112-4ea8-b36a-d93936c09ad0.png)
